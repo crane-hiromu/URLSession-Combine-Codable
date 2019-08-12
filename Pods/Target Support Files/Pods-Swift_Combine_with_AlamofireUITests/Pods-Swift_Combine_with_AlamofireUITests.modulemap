@@ -1,0 +1,6 @@
+framework module Pods_Swift_Combine_with_AlamofireUITests {
+  umbrella header "Pods-Swift_Combine_with_AlamofireUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
