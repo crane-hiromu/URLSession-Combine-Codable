@@ -17,9 +17,9 @@ struct NetworkConstants {
       
     static var baseURL: String = {
         #if DEBUG
-        return "https://qiita.com"
+        return ""
         #else
-        return "https://qiita.com"
+        return ""
         #endif
     }()
     

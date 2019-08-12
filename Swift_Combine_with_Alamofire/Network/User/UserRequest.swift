@@ -18,11 +18,11 @@ struct UserRequest: BaseRequestProtocol {
     }
     
     var baseURL: URL {
-        return URL(string: "https://api.myjson.com")!
+        return URL(string: "https://api.myjson.com")! // demo
     }
 
     var path: String {
-        return "/bins/o5g6r"
+        return "/bins/o5g6r"  // demo
     }
 
     var parameters: Parameters? {
