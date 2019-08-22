@@ -6,7 +6,8 @@ It's a demo.
 You can call API by URLSession + Combine.
 
 ## Requirement
-- Xcode11 Beta5
+- Xcode11 Beta6
+- MacOS Catalina Beta5
 
 ## Usage
 1. Download Xcode
